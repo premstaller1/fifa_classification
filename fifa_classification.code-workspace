@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "fifa_classification",
+			"path": "."
+		},
+		{
+			"name": "fifa_data",
+			"path": "../../../../Downloads/fifa_data"
+		},
+		{
+			"name": "productivity",
+			"path": "../productivity"
+		}
+	],
+	"settings": {}
+}
